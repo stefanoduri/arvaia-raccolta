@@ -1,5 +1,5 @@
 
-# 🌾 AgroTrend Arvaia: Analisi Raccolta 2025
+# 🌾 Arvaia Distribuzione 2025: Analisi Raccolta
 
 Una dashboard avanzata per la visualizzazione e l'analisi dei dati di raccolta dei prodotti agricoli della cooperativa Arvaia per l'anno 2025, con focus sulla correlazione climatica.
 

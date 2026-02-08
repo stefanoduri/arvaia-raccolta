@@ -159,7 +159,7 @@ const App: React.FC = () => {
             <div className="bg-amber-600 p-2 rounded-xl">
               <Sprout className="text-white w-6 h-6" />
             </div>
-            <h1 className="text-xl font-extrabold tracking-tight">Arvaia <span className="text-amber-600">Harvest 2025</span></h1>
+            <h1 className="text-xl font-extrabold tracking-tight">Arvaia <span className="text-amber-600">Distribuzione 2025</span></h1>
           </div>
           <div className="text-slate-400 text-xs font-medium uppercase tracking-widest hidden md:block">
             Monitoraggio Raccolto e Clima
@@ -366,7 +366,7 @@ const App: React.FC = () => {
                 <div className="bg-slate-50 p-6 rounded-full mb-6 ring-8 ring-white shadow-sm">
                   <Sprout className="w-16 h-16 text-slate-300" />
                 </div>
-                <h2 className="text-3xl font-black text-slate-700 mb-3">Arvaia Raccolta 2025</h2>
+                <h2 className="text-3xl font-black text-slate-700 mb-3">Arvaia Distribuzione Insights</h2>
                 <p className="text-slate-400 max-w-md text-lg leading-relaxed">
                   Utilizza la sidebar per esplorare i dati della raccolta 2025. 
                   Il sistema evidenzierà automaticamente i periodi di raccolta nei grafici climatici per aiutarti a individuare correlazioni.
