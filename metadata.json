@@ -1,0 +1,6 @@
+
+{
+  "name": "Analisi dei dati ARVAIA - raccolta 2025",
+  "description": "Dashboard avanzata per la visualizzazione e l'analisi dei dati di raccolta agricola, con supporto per il formato italiano, filtri dinamici e correlazione climatica.",
+  "requestFramePermissions": []
+}
