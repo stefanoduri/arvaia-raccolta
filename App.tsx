@@ -159,7 +159,7 @@ const App: React.FC = () => {
             <div className="bg-amber-600 p-2 rounded-xl">
               <Sprout className="text-white w-6 h-6" />
             </div>
-            <h1 className="text-xl font-extrabold tracking-tight">Arvaia <span className="text-amber-600">Distribuzione 2025</span></h1>
+            <h1 className="text-xl font-extrabold tracking-tight">Arvaia <span className="text-amber-600">Raccolta 2025</span></h1>
           </div>
           <div className="text-slate-400 text-xs font-medium uppercase tracking-widest hidden md:block">
             Monitoraggio Raccolto e Clima
